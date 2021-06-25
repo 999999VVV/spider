@@ -1,4 +1,4 @@
-# requests爬取盗墓笔记
+# requests爬取小说
 import requests
 from bs4 import BeautifulSoup
 import time
